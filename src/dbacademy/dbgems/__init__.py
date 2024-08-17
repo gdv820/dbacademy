@@ -432,4 +432,4 @@ except ImportError as e:
     dbutils = None
 
 
-check_deprecation_logging_enabled()
+# check_deprecation_logging_enabled()
